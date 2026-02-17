@@ -1,0 +1,6 @@
+{
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "com.felipe.myapplication/.MyDeviceAdminReceiver",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_SIGNATURE_CHECKSUM": "ff7185b740f9e8791c725803e6d42036dc63ab8d1b1da8a5e5f8462acecba1b8",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://github.com/felip1211/owner/raw/main/app-debug.apk",  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_NAME": "com.felipe.myapplication",
+  "android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true
+}
